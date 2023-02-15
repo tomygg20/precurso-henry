@@ -1,2 +1,1 @@
-# precurso-henry
-prueba modulo 2
+este repositorio es una prueba de github
