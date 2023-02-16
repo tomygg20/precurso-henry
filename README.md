@@ -1,1 +1,1 @@
-este repositorio es una prueba de github
+prueba de github
